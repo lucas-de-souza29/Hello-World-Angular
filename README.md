@@ -32,6 +32,3 @@ hello-world-angular/
 ├── nginx.conf        # Configuração do servidor web
 └── angular.json      # Configuração do workspace
 ```
-
-## 📄 Licença
-MIT - Veja [LICENSE](LICENSE) para detalhes
