@@ -3,7 +3,7 @@
 [![Docker Image](https://img.shields.io/docker/pulls/lucasdesouza29/hello-world-angular)](https://hub.docker.com/r/lucasdesouza29/hello-world-angular)
 [![GitHub License](https://img.shields.io/github/license/lucasdesouza29/hello-world-angular)](LICENSE)
 
-Aplicação Angular de exemplo com Docker, seguindo as melhores práticas de 2024.
+Aplicação Angular de exemplo com Docker.
 
 ## 🚀 Como Executar
 
