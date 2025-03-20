@@ -19,7 +19,6 @@ ng serve
 ## 🛠 Tecnologias
 - Angular 17+
 - Docker
-- GitHub Actions
 - Nginx
 - SCSS
 
